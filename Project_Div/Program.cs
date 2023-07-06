@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿double namberA = 12;
+double namberB = 5;
+Console.WriteLine(namberA / namberB);
